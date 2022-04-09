@@ -1,4 +1,4 @@
-# The Odds API Code Samples (v4) - PHP
+# The Odds API Code Samples - PHP
 
 The Odds API provides live odds for loads of sports from bookmakers around the world, in an easy to use JSON format.
 
